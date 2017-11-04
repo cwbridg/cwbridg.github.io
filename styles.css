@@ -4,3 +4,8 @@ button {
     background-color: blue;
     color: white;
 }
+
+textarea {
+    width : 400px;
+    height : 400px;
+}
